@@ -59,14 +59,3 @@ python decrypt.py
 - **Output**: `sample_decrypted.txt` (restores the original content).
 
 ---
-
-## Support
-
-- **Issues**: Open a ticket on the [GitHub Issues](https://github.com/yourusername/yourproject/issues) page.
-- **Contact**: See the repository's "About" section for direct contact details.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
